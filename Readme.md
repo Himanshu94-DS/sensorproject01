@@ -22,22 +22,22 @@ Features: 590 sensor readings (Sensor_1 to Sensor_590) from wafer fabrication pr
 
 1. Data Preprocessing
    
-   · Handled missing values and outliers
-   · Applied feature scaling (StandardScaler)
-   · Addressed class imbalance using SMOTE/undersampling
+ • Handled missing values and outliers
+ • Applied feature scaling (StandardScaler)
+ • Addressed class imbalance using SMOTE/undersampling
 
 3. Feature Engineering
 
-   · Dimensionality reduction using PCA
-   · Feature selection based on importance scores
-   · Correlation analysis to remove redundant sensors
+• Dimensionality reduction using PCA
+• Feature selection based on importance scores
+• Correlation analysis to remove redundant sensors
 
-4. Models Implemented
+5. Models Implemented
 
-   · Logistic Regression (Baseline)
-   · Random Forest Classifier
-   · XGBoost
-   · Support Vector Machines
+• Logistic Regression (Baseline)
+• Random Forest Classifier
+• XGBoost
+• Support Vector Machines
 
 ## Results
 
