@@ -50,8 +50,5 @@ F1-Score 93.1%
 
 ## Future Work
 
-· Deploy the model as a REST API using Flask or FastAPI for real-time inference.
-· Implement an anomaly detection model to identify novel fault patterns or sensor failures.
-· Develop a continuous learning pipeline to automatically retrain the model with new production data.
-· Create a dashboard using Power BI for real-time monitoring of wafer quality and model performance.
+ Deploy the model as a REST API using Flask or FastAPI for real-time inference., Implement an anomaly detection model to identify novel fault patterns or sensor failures. Develop a continuous learning pipeline to automatically retrain the model with new production data. Create a dashboard using Power BI for real-time monitoring of wafer quality and model performance.
 
