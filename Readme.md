@@ -32,8 +32,8 @@ Features: 590 sensor readings (Sensor_1 to Sensor_590) from wafer fabrication pr
 
 5. Models Implemented
 
-• Logistic Regression (Baseline)
-• Random Forest Classifier
+• Logistic Regression
+• Random Forest Classifier 
 • XGBoost
 • Support Vector Machines
 
@@ -41,9 +41,13 @@ Features: 590 sensor readings (Sensor_1 to Sensor_590) from wafer fabrication pr
 
 Our best-performing model (XGBoost) achieved:
 Metric Score:
+
 Accuracy 94.2%
+
 Precision 93.8%
+
 Recall 92.5%
+
 F1-Score 93.1%
 
 ## Future Work
