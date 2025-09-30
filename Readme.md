@@ -34,8 +34,8 @@ Correlation analysis to remove redundant sensors
 
 5. Models Implemented
 
-Logistic Regression
-Random Forest Classifier 
+  1.Logistic Regression
+2.Random Forest Classifier 
 XGBoost
 Support Vector Machines
 
