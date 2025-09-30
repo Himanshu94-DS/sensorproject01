@@ -1,4 +1,4 @@
-## Machine Learning sensor project 
+## Semiconductor Wafer Quality Prediction using Machine Learning 
 
 ## 📖 Project Overview
 
