@@ -21,17 +21,18 @@ Features: 590 sensor readings (Sensor_1 to Sensor_590) from wafer fabrication pr
 ## Technical Approach
 
 1. Data Preprocessing
+   
    · Handled missing values and outliers
    · Applied feature scaling (StandardScaler)
    · Addressed class imbalance using SMOTE/undersampling
 
-2. Feature Engineering
+3. Feature Engineering
 
    · Dimensionality reduction using PCA
    · Feature selection based on importance scores
    · Correlation analysis to remove redundant sensors
 
-3. Models Implemented
+4. Models Implemented
 
    · Logistic Regression (Baseline)
    · Random Forest Classifier
