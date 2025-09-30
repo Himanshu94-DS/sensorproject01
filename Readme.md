@@ -15,7 +15,7 @@ Features: 590 sensor readings (Sensor_1 to Sensor_590) from wafer fabrication pr
 
  "Good" wafer = 1 , "Bad" wafer = -1
   
-· Focus: Environmental and process parameters like temperature, pressure, and chemical composition
+• Focus: Environmental and process parameters like temperature, pressure, and chemical composition
 
 ## Technical Approach
 1. Data Preprocessing
@@ -43,6 +43,5 @@ Recall 92.5%
 F1-Score 93.1%
 
 ## Future Work
-
 Deploy the model as a REST API using Flask or FastAPI for real-time inference., Implement an anomaly detection model to identify novel fault patterns or sensor failures. Develop a continuous learning pipeline to automatically retrain the model with new production data. Create a dashboard using Power BI for real-time monitoring of wafer quality and model performance.
 
