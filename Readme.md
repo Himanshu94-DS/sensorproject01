@@ -28,9 +28,7 @@ Features: 590 sensor readings (Sensor_1 to Sensor_590) from wafer fabrication pr
 
 3. Feature Engineering
 
-• Dimensionality reduction using PCA
-• Feature selection based on importance scores
-• Correlation analysis to remove redundant sensors
+• Dimensionality reduction using PCA, Feature selection based on importance scores, Correlation analysis to remove redundant sensors
 
 5. Models Implemented
 
