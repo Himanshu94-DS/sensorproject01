@@ -14,8 +14,10 @@ Develop a binary classification machine learning model to predict the quality of
 
 Features: 590 sensor readings (Sensor_1 to Sensor_590) from wafer fabrication process
 · Target: Binary classification
-  · 1 = "Good" wafer
-  · -1 = "Bad" wafer
+
+ 1 = "Good" wafer
+-1 = "Bad" wafer
+  
 · Focus: Environmental and process parameters like temperature, pressure, and chemical composition
 
 ## Technical Approach
